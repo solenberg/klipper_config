@@ -1,2 +1,3 @@
 # klipper_config
-My printer.cfg for klipper firmware
+
+These settings are for my CR-10s with a 2.1 mainboard and an EZ-ABL
